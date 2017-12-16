@@ -1,7 +1,6 @@
 # Question One (C++)
 
-In the imaginary world of Oop arrays are blocks of memory stored on the heap. When an index is requested the array returns a pointer to that portion of <br>
-block of memory. If:
+In the imaginary world of Oop arrays are blocks of memory stored on the heap. When an index is requested the array returns a pointer to that portion of block of memory. If:
 ```cpp
     sizeof(arr);
 ```
