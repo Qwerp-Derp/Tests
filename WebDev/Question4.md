@@ -2,7 +2,7 @@
 
 Varun has written the following php snippit:
 
-```php
+```
     <?php
         $person = $_SESSION["CANARY"]["Person"];
         $time = time();
