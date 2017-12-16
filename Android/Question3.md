@@ -17,16 +17,16 @@ What is the output of the following code assuming that the catch block is not ca
             setContentView(R.layout.activity);
             
             try {
-            OkHttpClient client = new OkHttpClient();
+                OkHttpClient client = new OkHttpClient();
 
-            Request request = new Request.Builder()
-                .url("https://www.thisSitereturnsacatpicture.com/picture.txt")
-                .build();
+                Request request = new Request.Builder()
+                    .url("https://www.thisSitereturnsacatpicture.com/picture.txt")
+                    .build();
 
-            Response resp = client.newCall(request).execute();
+                Response resp = client.newCall(request).execute();
 
 
-            Log.d("Response", resp.body().toString())
+                Log.d("Response", resp.body().toString())
             
             } catch(Exception e) {
                 
