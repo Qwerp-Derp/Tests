@@ -5,7 +5,7 @@ block of memory. If:
 ```cpp
     sizeof(arr);
 ```
-returns the size of arr in the number of char sized blocks of memory it takes up devise a way to attain the first index of the array without using the `[]` <br> operator.
+returns the size of arr in the number of char sized blocks of memory it takes up devise a way to attain the 2nd index of the array without using the `[]` <br> operator.
 
 Tip: Pointer arithmetic.
 
