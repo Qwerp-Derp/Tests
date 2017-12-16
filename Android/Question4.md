@@ -8,7 +8,7 @@ Assume the following code is running on a phone with 1KB of RAM
     }
 ```
 
-Will the code work and why?
+Will the code work and why? If not what error will be thrown?
 
 ## Solving the question
 
