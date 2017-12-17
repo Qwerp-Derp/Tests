@@ -1,6 +1,6 @@
 # Question Four
 
-Varun has written the following php snippit:
+Ya boi Varun has written the following php snippet:
 
 ```
     <?php
@@ -19,7 +19,7 @@ Varun has written the following php snippit:
     </html>
 ```
 
-Your task is to create a depictition of what this page would look like, please do not copy this code and run it to solve it, that is cheating....
+Your task is to create a depiction of what this page would look like, please do not copy this code and run it to solve it, that is cheating....
 Good Luck.
 
 
