@@ -1,7 +1,7 @@
 # Question 9 (C++)
 
 
-Implement an intarator for the follwing data structure: 
+Implement an iterator for the follwing data structure: 
 ```cpp
 #include <iostream>
 #include <vector>
